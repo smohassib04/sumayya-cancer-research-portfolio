@@ -15,6 +15,7 @@ document.querySelector('.button-secondary').href = '#case-studies';
 document.querySelector('.text-link').href = '#case-studies';
 document.querySelector('.hero-aside p').textContent = 'The question is practical: where does the system make cancer care harder, and what can evidence help change?';
 document.querySelector('.hero-aside strong').textContent = 'Data analysis, policy, and access';
+document.querySelector('.hero-index').innerHTML = '01 <span>/</span> 02';
 document.querySelector('.case-section .section-label').textContent = '01 / Project evidence';
 document.querySelector('#case-title').textContent = 'Two enacted bills. Two access problems.';
 
